@@ -37,7 +37,7 @@ public class SelectionSort
         SelectionSort ob = new SelectionSort(); 
         int arr[] = {64,25,12,22,11}; 
         ob.sort(arr); 
-        System.out.println("Sorted array"); 
+        System.out.println("Sorted array d"); 
         ob.printArray(arr); 
     } 
 } 
